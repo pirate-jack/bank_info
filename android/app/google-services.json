@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "905609277316",
+    "project_id": "bankinfo-8c091",
+    "storage_bucket": "bankinfo-8c091.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905609277316:android:7203489a553c2085d7b7d1",
+        "android_client_info": {
+          "package_name": "com.example.bank_info"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7r-E_9YDVAl5qCKxBVVGZgib1Lvmw5qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
